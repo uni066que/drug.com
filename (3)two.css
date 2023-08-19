@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-image: url(n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+
+h1{
+    border: 4px solid white;
+    width: 600px;
+}
+
+img{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 4px solid white;
+    border-radius: 7px;
+    font-size: 70px;
+}
+
+a:hover{
+    box-shadow: 5px 5px 10px 3px white;
+}

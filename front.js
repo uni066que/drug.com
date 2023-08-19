@@ -1,0 +1,1 @@
+alert('(This page is dangerous so please(Return quickly). If you do not want to go back click OK.)')
